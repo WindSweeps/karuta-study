@@ -1,0 +1,4 @@
+Shippori Mincho · FONTDASU
+https://github.com/fontdasu/ShipporiMincho
+SIL Open Font License 1.1
+Subset provided by Google Fonts for the 100 poems.
